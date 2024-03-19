@@ -1,0 +1,13 @@
+CREATE TABLE public.city(
+	iD varchar,
+	Estimated_Insects_Count int,
+	Crop_Type varchar,
+	Soil_Type varchar,
+	Pesticide_Use_Category varchar,
+	Number_Doses_Week int,
+	Number_Weeks_Used int,
+	Number_Weeks_Quit int,
+	Season varchar,
+	Crop_Damage varchar
+);
+ \copy data from 'D:\sem-2\module4\project\data.csv' delimiter ',' csv header;
