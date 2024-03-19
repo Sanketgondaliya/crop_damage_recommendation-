@@ -2,11 +2,11 @@ import streamlit as st
 import psycopg2
 
 # Replace these values with your actual database credentials
-host = '02f7e6f1-1adb-4347-835a-02c74fcccb0e.db.cloud.postgresml.org'
-port = '6432'
-database = 'pgml_dwerbshrfzjc0ep'
-user = 'u_jqmf1nl2wtfaa6k'
-password = 'bhb1nt3iyoebjpa'
+host = ''
+port = ''
+database = ''
+user = ''
+password = ''
 
 
 # Establish a connection
