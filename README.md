@@ -10,20 +10,20 @@ To analyze the outcomes of the harvest season based on the given data, we can ut
   Evaluate the amount and frequency of pesticides used by each farmer.
   Identify whether the pesticide usage falls within optimal levels or exceeds them.
 
-2.Identification of Crop Condition:
+ 2.Identification of Crop Condition:
   Determine the health status of the crop for each farmer.
   Classify the condition into three categories: healthy (alive), damaged by pesticides, or damaged by other reasons.
 
-3.Analysis of Factors Contributing to Crop Health:
+ 3.Analysis of Factors Contributing to Crop Health:
   Examine factors such as water availability, soil fertility, and pest control measures apart from pesticides.
   Determine if any other reasons, like environmental factors or diseases, have affected the crop health.
   
-4.Decision Making:
+ 4.Decision Making:
   Based on the assessment, make decisions regarding the outcome of the harvest season for each farmer.
   Consider whether the crop is suitable for consumption or if it needs to be discarded due to pesticide damage or other 
   reasons.
   
-5.Recommendations:
+ 5.Recommendations:
   Provide recommendations to farmers on optimizing pesticide usage to avoid crop damage.
   Suggest measures to improve overall crop health and harvest outcomes, including alternative pest control methods or soil 
   management practices.
