@@ -6,7 +6,7 @@ This project aims to address this challenge by developing a machine learning mod
 
 # Detailed Problem
 To analyze the outcomes of the harvest season based on the given data, we can utilize a decision-making framework. Let's break down the process into steps:
-1. Assessment of Pesticide Usage:
+1.Assessment of Pesticide Usage:
   Evaluate the amount and frequency of pesticides used by each farmer.
   Identify whether the pesticide usage falls within optimal levels or exceeds them.
 
