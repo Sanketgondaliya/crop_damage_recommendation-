@@ -24,7 +24,7 @@ cursor = conn.cursor()
 st.title("Pest Prediction App")
 
 # Input fields for user interaction
-crop_type = st.selectbox("Crop Type", ["Select","Karif", "Rabi"])
+crop_type = st.selectbox("Crop Type", ["Select","Kharif", "Rabi"])
 if crop_type == "Kharif":
     crop_type = float(0)
 elif crop_type == "Rabi":
